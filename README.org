@@ -1,0 +1,9 @@
+* cari3s
+
+A generator for the i3 status bar.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/Shinmera/cari3s.git |
+| commit  | 3276ad1                                    |
+| systems | cari3s                                     |
+|---------+--------------------------------------------|
