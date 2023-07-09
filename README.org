@@ -4,6 +4,6 @@ A generator for the i3 status bar.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/cari3s.git |
-| commit  | 3276ad1                                    |
+| commit  | 567a23a                                    |
 | systems | cari3s                                     |
 |---------+--------------------------------------------|
